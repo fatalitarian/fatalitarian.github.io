@@ -3,13 +3,13 @@ module.exports = {
   siteMetadata: {
     title: `Leonids`,
     author: {
-      name: `@ry_zou`,
+      name: `@Fatalitarian`,
       summary: `web dev`,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    siteUrl: `https://fatalitarian.com`,
     social: {
-      twitter: `ry_zou`,
+      twitter: `Fatalitarian`,
     },
     defaultImage: "images/bg.jpeg",
   },
