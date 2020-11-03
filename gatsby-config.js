@@ -82,5 +82,11 @@ module.exports = {
     `gatsby-plugin-offline`,
     "gatsby-plugin-dark-mode",
     `gatsby-plugin-postcss`,
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-3956839906085993`
+      },
+    },
   ],
 }
