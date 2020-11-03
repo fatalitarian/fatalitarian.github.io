@@ -1,7 +1,6 @@
 module.exports = {
-  pathPrefix: "/fatalitarian.github.io",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Fatalitarian`,
     author: {
       name: `@Fatalitarian`,
       summary: `web dev`,
